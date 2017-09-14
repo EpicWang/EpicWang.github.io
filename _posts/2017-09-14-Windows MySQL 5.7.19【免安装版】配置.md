@@ -1,6 +1,6 @@
----
+﻿---
 layout:     post
-title:      MySql config
+title:      MySql免安装版配置
 subtitle:   Windows MySQL 5.7.19【免安装版】配置
 date:       2017-09-13
 author:     EpicWang
@@ -107,3 +107,7 @@ mysql> exit
 ```java
 netstat -ano | findstr 3306
 ```
+
+
+
+
