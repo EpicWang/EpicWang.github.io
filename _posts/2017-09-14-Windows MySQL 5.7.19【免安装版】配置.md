@@ -2,7 +2,7 @@
 layout:     post
 title:      MySql免安装版配置
 subtitle:   Windows MySQL 5.7.19【免安装版】配置
-date:       2017-09-13
+date:       2017-09-14
 author:     EpicWang
 header-img: img/post-bg-2015.jpg
 catalog: true
@@ -10,8 +10,6 @@ tags:
     - mysql
 	- windows
 ---
-
-# Windows MySQL 5.7.19【免安装版】配置
 
 Windows下Mysql有各种版本，今天这里安装的是 mysql-5.7.19-winx64.zip（.zip Archive版【免安装版】，非.msi Installer安装版）
 
